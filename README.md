@@ -36,24 +36,24 @@ A PDF document `projections_d_phi_e1.pdf` gives an overview.
 
 The literature I could find is mostly focused on the inversion of the Radon Transform to reconctruct the original image. There is little guidance in how to compute the Radon transform from an image.
 
-The Radon Transform
+1) The Radon Transform
 Carsten Høilund
 Aalborg University, VGIS, 07gr721
 November 12, 2007
 
-Tomographic Image Reconstruction.
+2) Tomographic Image Reconstruction.
 An Introduction.
 Milan Zvolský
 Lecture on Medical Physics
 by Erika Garutti & Florian Grüner
 28.11.2014
 
-2012
+3) 2012
 The Radon Transform and the Mathematics of Medical Imaging
 Jen Beatty
 Colby College
 
-The Radon transform and its inverse
+4) The Radon transform and its inverse
 August 2011
 Alain C. France, CEA/Saclay
 
