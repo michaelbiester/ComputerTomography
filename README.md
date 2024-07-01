@@ -108,7 +108,7 @@ A possible application is the interpolation of data in polar coordates $r, \thet
 
 **Note**
 
-This notebook is an earlier version of notebook `radon_transform_computation_2.ipynb`. It will no longer been maintained.
+This notebook is an earlier version of notebook `radon_transform_computation_2.ipynb`. It will no longer be maintained.
 
 The notebook reviews methods for the computation of projections of a 2D images.
 
